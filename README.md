@@ -1,11 +1,11 @@
-# Eleon Staking Landing Page
+# Eleon Buy & Sell Landing Page
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Description
 
-This project shows a responsive landing page created with ReactJS and TailwindCSS and Node.js. 
-At the end of the page there is a contact form, which implements validation as well. The backend part of the project you can find in the repo "eleon-buy-sell-backend"
+This project shows a responsive landing page created with ReactJS and TailwindCSS and Node.js. The main goal of tha page is to be able to calculate currency rate of different cryptocurrencies. At the end of the page there is a contact form, which implements validation as well. 
+The backend part of the project you can find in the repo "eleon-buy-sell-backend"
 
 ## Installation
 
