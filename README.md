@@ -19,7 +19,9 @@ Then to install the dependencies, in the project directory run:
 
 ## Run the project
 
-In the project directory, you can run:
+First, download and run the backend part of the project, from the eleon-buy-backend repo
+
+Then, to run the front-end part of the project, run:
 
 ### `npm start`
 
